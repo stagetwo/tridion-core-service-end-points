@@ -11,7 +11,7 @@ The CoreServiceClient and SessionAwareCoreServiceClient share the same method na
 
 This recipe wraps up the Core Service calls so that you need to worry about which end point you are using. This decision can be made at application start using a method of your choosing e.g. Dependency Injection.
 
-I have exposed the following methods from the Core Service. 
+We have exposed the following methods from the Core Service. 
 
 - ReadSchemaFields
 - Read
