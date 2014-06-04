@@ -1,9 +1,7 @@
 Core Service End Point Switching
 ===============================
 
-Coding structure to allow switching between Tridion Core Service End Points
-
-===============================
+**Coding structure to allow switching between Tridion Core Service End Points**
 
 We found recently that we needed to connect to the Core Service using 2 different end points. TCP in production and Basic HTTP while in development. 
 

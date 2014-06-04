@@ -1,4 +1,4 @@
-tridion-core-service-end-points
+Core Service End Point Switching
 ===============================
 
-Coding structure to allow switching between Tridion Core Service End Points
+Copy your ‘Tridion.ContentManager.CoreService.Client.dll’ into the this folder
