@@ -31,6 +31,9 @@ Also we have merge GetList and GetListXml so that we could serialise the XElemen
 3. Edit the App.config change ‘CoreService.EndPoint’ appSetting to the end point you wish to use
 4. Edit the App.config add a username and password to the ‘CoreService.Username’ and ‘CoreService.Password’ to the appSettings
 
-Reference Projects:
 
-https://github.com/chrismrgn/Tridion.Templates.CoreService (Thanks Chris)
+This project expands on the code from 'Tridion.Templates.CoreService' repo available here:
+
+https://github.com/chrismrgn/Tridion.Templates.CoreService
+
+Thanks Chris.
